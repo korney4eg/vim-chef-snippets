@@ -1,4 +1,7 @@
-vim-chef
+vim-chef-snippets
+=================
+
+Snippets and syntax for chef. cloned from https://github.com/vadv/vim-chef
 ========
 
 Vim plugins for chef (syntax highliting and autocomplete snipmate)
@@ -22,3 +25,4 @@ Enable
 Enable syntax for chef files some like this:
 
 `autocmd FileType ruby,eruby set filetype=ruby.eruby.chef`
+=======
